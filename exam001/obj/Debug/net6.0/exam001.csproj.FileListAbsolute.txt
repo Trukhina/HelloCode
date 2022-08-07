@@ -1,0 +1,15 @@
+/Users/tatanatruhina/Exam/exam001/bin/Debug/net6.0/exam001
+/Users/tatanatruhina/Exam/exam001/bin/Debug/net6.0/exam001.deps.json
+/Users/tatanatruhina/Exam/exam001/bin/Debug/net6.0/exam001.runtimeconfig.json
+/Users/tatanatruhina/Exam/exam001/bin/Debug/net6.0/exam001.dll
+/Users/tatanatruhina/Exam/exam001/bin/Debug/net6.0/exam001.pdb
+/Users/tatanatruhina/Exam/exam001/obj/Debug/net6.0/exam001.csproj.AssemblyReference.cache
+/Users/tatanatruhina/Exam/exam001/obj/Debug/net6.0/exam001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatanatruhina/Exam/exam001/obj/Debug/net6.0/exam001.AssemblyInfoInputs.cache
+/Users/tatanatruhina/Exam/exam001/obj/Debug/net6.0/exam001.AssemblyInfo.cs
+/Users/tatanatruhina/Exam/exam001/obj/Debug/net6.0/exam001.csproj.CoreCompileInputs.cache
+/Users/tatanatruhina/Exam/exam001/obj/Debug/net6.0/exam001.dll
+/Users/tatanatruhina/Exam/exam001/obj/Debug/net6.0/refint/exam001.dll
+/Users/tatanatruhina/Exam/exam001/obj/Debug/net6.0/exam001.pdb
+/Users/tatanatruhina/Exam/exam001/obj/Debug/net6.0/exam001.genruntimeconfig.cache
+/Users/tatanatruhina/Exam/exam001/obj/Debug/net6.0/ref/exam001.dll
